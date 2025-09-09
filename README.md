@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**sarabalmeida/sarabalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">✨ Olá, sou Sara Almeida 👋 ✨</h1>
 
 <p align="center">
@@ -25,28 +20,4 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-- **Testes Manuais:** funcionais, regressivos, exploratórios, usabilidade, integração, performance  
-- **Testes de API:** Postman, Swagger  
-- **Bancos de Dados:** Oracle PLSQL  
-- **Gestão de Qualidade:** Jira, Xray, Zephyr, Confluence, TestLink  
-- **Metodologias:** Scrum, BDD, ShiftLeft Testing  
-- **Automação (aprendizado):** Cypress, Robot Framework  
-- **Controle de versão:** Git e GitHub  
-- **Metodologias Ágeis:** Scrum, Kanban  
-
----
-
-## ✍️ Artigos e Conteúdos
-📖 Em breve vou compartilhar meus estudos sobre **QA** e **automação**.  
-
----
-
-## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/sarabalmeida/)  
-- 📧 **Email:** sara.almeida@email.com  
-
----
-
-## 📝 Licença
-Este perfil e conteúdos são de uso pessoal e público para aprendizado.  
+## 🚀 Tecno
